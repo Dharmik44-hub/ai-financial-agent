@@ -5,5 +5,5 @@ myenv/
 __pycache__/
 *.pyc
 
-# Environment variables - DO NOT UPLOAD!
+# Environment variables !
 .env
